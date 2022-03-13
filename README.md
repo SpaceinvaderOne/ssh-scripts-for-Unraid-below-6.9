@@ -9,7 +9,7 @@ Management:
 - ssh: allow only root user, require passwords, disable non-root tunneling
 - ssh: add /root/.ssh symlink to /boot/config/ssh/root directory
 
-However before 6.9 this didnt happen so these are 2 scripts to keep ssh keys persistant across reboots with older versions of Unraid
+However before 6.9 ( ie 6.8.3 ) this didnt happen so these are 2 scripts to keep ssh keys persistant across reboots with older versions of Unraid
 These scripts require the User Scripts plugin 
 
 Copy the contents of these scripts to your Unraid server.
