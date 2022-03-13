@@ -1,4 +1,4 @@
-# ssh scripts for Unraid -- only below-6.9 (not needed for newwer versions)
+# ssh scripts for Unraid -- only below-6.9 (not needed for newer versions)
 
 From Unraid 6.9 ssh keys have been saved to the flash drive to make them persistant across reboots.
 
