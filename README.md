@@ -1,4 +1,4 @@
-# ssh-scripts-for-Unraid-below-6.9
+# ssh scripts for Unraid -- only below-6.9 (not needed for newwer versions)
 
 From Unraid 6.9 ssh keys have been saved to the flash drive to make them persistant across reboots.
 
@@ -11,5 +11,12 @@ Management:
 
 However before 6.9 this didnt happen so these are 2 scripts to keep ssh keys persistant across reboots with older versions of Unraid
 These scripts require the User Scripts plugin 
+
+Copy the contents of these scripts to your Unraid server.
+
+ssh - Unraid to flash drive.sh    this should be set to run at shutdown of array
+
+ssh - flash drive to Unraid.sh    this should be set to run at first start of array
+
 
 
